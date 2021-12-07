@@ -23,25 +23,25 @@ dependencies:
     sdk: flutter
   bitsdojo_window_platform_interface:
     git:
-      url: https://github.com/vishwajit76/bitsdojo_window.git
+      url: https://github.com/ADRIAN3003/bitsdojo_window.git
       path: bitsdojo_window_platform_interface
       ref: master
     #path: ../bitsdojo_window_platform_interface
   bitsdojo_window_windows:
     git:
-      url: https://github.com/vishwajit76/bitsdojo_window.git
+      url: https://github.com/ADRIAN3003/bitsdojo_window.git
       path: bitsdojo_window_windows
       ref: master
     #path: ../bitsdojo_window_windows
   bitsdojo_window_macos:
     git:
-      url: https://github.com/vishwajit76/bitsdojo_window.git
+      url: https://github.com/ADRIAN3003/bitsdojo_window.git
       path: bitsdojo_window_macos
       ref: master
     #path: ../bitsdojo_window_macos
   bitsdojo_window_linux:
     git:
-      url: https://github.com/vishwajit76/bitsdojo_window.git
+      url: https://github.com/ADRIAN3003/bitsdojo_window.git
       path: bitsdojo_window_linux
       ref: master
     #path: ../bitsdojo_window_linux
